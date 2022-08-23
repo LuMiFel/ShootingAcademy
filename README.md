@@ -13,7 +13,7 @@ Deadline for project deployment: 10 nights.</p>
 we set the Git repository and started working into the specific features of the game.</br>
 The game was mainly developed in pair programming, with some parts as individual assignments. 
 On a later development phase, we found it was better to work together to overcome some final implementation functionalities, compile and test.</p>
-<p>For the graphical user interface, we have used an open source library called Simple Graphics, from <Academia de Código_>.</p>
+<p>For the graphical user interface, we have used an open source library called Simple Graphics, from 'Academia de Código'.</p>
 <p>Individually, it was a good experience that allowed me to work as team, sharing ideas and solving problems together.</p>
 <p>The project, was presented to all of our colleagues, code cadets and master coders, 
 and during that we shared difficulties and worst technical issues we have had while developing the amazing Academy Invaders game.</p>
